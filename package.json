@@ -1,6 +1,6 @@
 {
   "name": "rmw-shell",
-  "version": "7.0.18",
+  "version": "1.0.0",
   "description": "rmw-shell React component",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -125,7 +125,7 @@
   "author": "Tarik Huber",
   "homepage": "https://www.react-most-wanted.com/",
   "license": "MIT",
-  "repository": "https://github.com/TarikHuber/rmw-shell",
+  "repository": "https://github.com/nativelocation/rmw-shell",
   "keywords": [
     "react-most-wanted",
     "react",
